@@ -1,0 +1,14 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 20px;
+}
+
+.nav-item {
+    padding: 4px 8px;
+}
+
+.nav-item-active {
+    background-color: lightgray;
+}
